@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+
+}
+
+h1{
+    background-color: royalblue;
+    color: white;
+}
+
+div{
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    margin: 1px;
+    text-align: justify;
+}
+
+footer{
+    background-color: royalblue;
+    color: white;
+    position: fixed;
+    font-size: x-large;
+    font-weight: bold;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    height: fit-content;
+}
